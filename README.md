@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roberta_sm_?igshid=NGExMmI2YTkyZg==)
 
-![roberta23453 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![roberta23453 GitHub stats](https://github-readme-stats.vercel.app/api?username=roberta23453&show_icons=true&theme=synthwave)
 
 ### Tecnologias às quais estou habituada
 <div style="display: inline_block"><br>
